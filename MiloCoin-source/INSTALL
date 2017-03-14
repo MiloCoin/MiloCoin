@@ -1,0 +1,9 @@
+Building MiloCoin
+
+See doc/readme-qt.rst for instructions on building MiloCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MiloCoin.
+
+See doc/build-*.txt for instructions on building milocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MiloCoin.
